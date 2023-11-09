@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![SrUnicornio's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrUnicornio&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&theme=neon)
-[![SrUnicornio's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SrUnicoirnio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![SrUnicornio's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SrUnicornio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SrUnicornio&repo=Primero-Ingenieria-Informatica&theme=gotham)](https://github.com/SrUnicornio/Primero-Ingenieria-Informatica.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SrUnicornio&repo=Segundo-Ingenieria-Informatica&theme=maroongold)](https://github.com/SrUnicornio/Segundo-Ingenieria-Informatica.git)
