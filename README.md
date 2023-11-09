@@ -1,11 +1,8 @@
 ### Hi there 👋
 
-Currently studying, also learning C++ and python.
-I like data science and cybersecurity, I want to specialize in cybersecurity
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrUnicornio&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&theme=neon)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrUnicornio&langs_count=20&layout=compact&theme=blue-green)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SrUnicorio&repo=Frist-Ing-Informatic&theme=gotham)](https://github.com/SrUnicornio/Frist-Ing-Informatic.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SrUnicornio&repo=Frist-Ing-Informatic&theme=gotham)](https://github.com/SrUnicornio/Frist-Ing-Informatic.git)
 
 <!-- https://github-profile-trophy.vercel.app/?username=SrUnicornio -->
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrUnicornio&layout=compact&theme=synthwave) -->
