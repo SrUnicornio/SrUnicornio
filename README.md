@@ -1,4 +1,7 @@
-### Hi there 👋
+### SrUnicornio 👋
+<a href="https://www.github.com/SrUnicornio" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/SrUnicornio?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<br>
 
 ![SrUnicornio's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrUnicornio&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&theme=neon)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristopherAfonso&langs_count=20&layout=compact&theme=blue-green)
