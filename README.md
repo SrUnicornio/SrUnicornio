@@ -11,16 +11,15 @@
 
 ### Sobre mí
 
-- 🎓 Cursando 3º de **Ingeniería Informática** en la Universidad de La Laguna (ULL)
-- 🛠️ Trabajo habitualmente con **Ruby** y **Python**; también LaTeX para documentación técnica
-- 🐍 Proyectos personales orientados a automatización y procesamiento de datos (visión por computador, clustering, arquitecturas concurrentes)
-- 🎮 Co-administro un servidor de Minecraft (modpack Cobblemon), donde también desarrollo herramientas de soporte
+- 🎓 Cursando 4º de **Ingeniería Informática** en la Universidad de La Laguna (ULL)
+- 🛠️ Trabajo habitualmente con **C++*, **Ruby** y **Python**; también LaTeX para documentación técnico
 
 ---
 
 ### 🧰 Stack tecnológico
 
 <p align="left">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
