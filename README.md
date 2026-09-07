@@ -39,17 +39,11 @@
 
 ### 📌 Proyectos destacados
 
-<p align="left">
-  <a href="https://github.com/SrUnicornio/Primero-Ingenieria-Informatica"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SrUnicornio&repo=Primero-Ingenieria-Informatica&theme=gotham" /></a>
-  <a href="https://github.com/SrUnicornio/Segundo-Ingenieria-Informatica"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SrUnicornio&repo=Segundo-Ingenieria-Informatica&theme=maroongold" /></a>
-</p>
-
-<!--
-  TODO: sustituye/añade aquí los pines de tus proyectos propios en cuanto tengan
-  repositorio público (p. ej. el generador de skins de Minecraft con PIL/OpenCV/KMeans,
-  o el juego de automatización de granjas con arquitectura SOLID de dos drones).
-  Un proyecto propio con README claro pesa más que un repo de asignatura.
--->
+<p align="left"> 
+  <a href="https://github.com/SrUnicornio/Primero-Ingenieria-Informatica"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SrUnicornio&repo=Primero-Ingenieria-Informatica&theme=gotham" /></a> 
+  <a href="https://github.com/SrUnicornio/Segundo-Ingenieria-Informatica"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SrUnicornio&repo=Segundo-Ingenieria-Informatica&theme=maroongold" /></a> 
+  <a href="https://github.com/SrUnicornio/Tercero-Ingenieria-Informatica"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SrUnicornio&repo=Tercero-Ingenieria-Informatica&theme=dark" /></a> 
+</p> 
 
 ---
 
