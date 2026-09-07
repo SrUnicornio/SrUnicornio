@@ -12,7 +12,7 @@
 ### Sobre mí
 
 - 🎓 Cursando 4º de **Ingeniería Informática** en la Universidad de La Laguna (ULL)
-- 🛠️ Trabajo habitualmente con **C++*, **TS**, **JS** y **Python**; también LaTeX para documentación técnico
+- 🛠️ Trabajo habitualmente con **C++**, **TS**, **JS** y **Python**; también LaTeX para documentación técnico
 
 ---
 
