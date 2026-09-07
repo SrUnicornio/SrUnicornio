@@ -1,5 +1,5 @@
 <h1 align="center">Álvaro Pérez Ramos — SrUnicornio</h1>
-<p align="center">Estudiante de 3º de Ingeniería Informática (ULL) · Ruby, Python y automatización de sistemas</p>
+<p align="center">Estudiante de 4º de Ingeniería Informática (ULL) · C++, TS, JS, Python</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/álvaro-pérez-ramos-868692180/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -12,7 +12,7 @@
 ### Sobre mí
 
 - 🎓 Cursando 4º de **Ingeniería Informática** en la Universidad de La Laguna (ULL)
-- 🛠️ Trabajo habitualmente con **C++*, **Ruby** y **Python**; también LaTeX para documentación técnico
+- 🛠️ Trabajo habitualmente con **C++*, **TS**, **JS** y **Python**; también LaTeX para documentación técnico
 
 ---
 
